@@ -1,1 +1,1 @@
-# client registartion app
+# client registration app
